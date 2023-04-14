@@ -1,3 +1,5 @@
+This is a competition project from de DataCamp competitions.
+
 This project goal is to build a portafolio strategy of inversion in Bitcoin, S&P 500 and Gold.
 
 For this goal we perform the next tasks:
