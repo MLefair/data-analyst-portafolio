@@ -1,3 +1,5 @@
+This is a competition project from de DataCamp competitions.
+
 This project is a analysis of a landing page to find out if the changes made have a possitve response from the costumer.
 
 In this proyect we peform the next tasks:
